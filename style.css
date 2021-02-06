@@ -1,0 +1,74 @@
+a {
+    color: green;
+    font-size: large;
+}
+div {
+    color: #19FBFF;
+}
+#Yandeks {
+    color: #ff0101;
+    font-size: 13px;
+}
+#Vikipedia {
+    color: #1100ff;
+    font-size: 19px;
+}
+.human {
+    color: black;
+}
+.animal {
+    color: #ff04f2
+}
+.massage {
+    color: #635e5e;
+    background-color: #a199998a;
+    border: 1px solid  #494646;
+    font-size: 20px;
+    margin: 10px;
+    padding: 8px;
+    opacity: 0.8;
+    border-radius: 10px;
+}
+.massage:hover {
+    padding: 4px;
+    border: 5px solid  #494646;
+    opacity: 1;
+}
+.success {
+    color: red;
+    background-color: #fcfc02
+}
+.fail {
+    color: white;
+    background-color: #ff9b05;
+}
+.warning {
+    color: #00d9ff;
+    background-color: #FE0000;
+}
+.info {
+    color: #2AFE00;
+    background-color: #FE00C5;
+}
+#test_stroka {
+    transform: rotate(0deg);
+
+    height: 100px;
+    color:  #A6FEC5;
+    background-color: #FFBCAB;
+    border: 1px solid #000000;
+    margin: 10px;
+    padding: 8px;
+    opacity: 0.8;
+}
+#test_stroka:hover {
+    padding: 4px;
+    border: 5px solid  #000000;
+    opacity: 1;
+}
+
+body {
+    background-image: url(images/albedo.jpg);
+
+    background-position-x: 1000%;
+}
